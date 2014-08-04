@@ -33,9 +33,9 @@ dropping all data that isn't directly connected to the actual purchase seems fai
 ![alt text](https://github.com/alexkcode/allstate_challenge/blob/master/Second_to_Last_Policy_Changes_by_Degree.png "Second_to_last_policy_changes_by_Degree.png")
 
 Now, let's look at the policy changes more closely, specifically between 
-the first and last shopping points, as in [feature_changes.png] and the 
+the first and last shopping points, and the 
 second to last shopping point and the last shopping point, as in 
-the two above plots.
+the above plots.
 
 The probability of a customer purchasing his/her last view insurance policy scheme
 is 64.33%. This was calculated by taking the areas of the tails of the histogram,
