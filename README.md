@@ -43,7 +43,9 @@ excluding the rectangle above 0.
 
 ##Challenges
 
-* Clearly, from [missings.png], something needs to be done about the 
+![alt text](https://github.com/alexkcode/allstate_challenge/blob/master/missings.png "missings.png")
+
+* Clearly, from above, something needs to be done about the 
 risk_factor column if it's to be used for in the prediction model.
 * Can the second to last viewed policy be utiilized to help predict 
 the policy the customer actually purchases?
