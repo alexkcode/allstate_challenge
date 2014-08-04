@@ -6,8 +6,12 @@
 
 Most of the visualization and explorative analysis is generated in the [visuals.py] 
 script and in IPython. The script functions as a summary of the important 
-parts of my IPython explorations. The first analysis I did was look at the 
-changes in the customers and the policies they view in [feature_changes.png]. 
+parts of my IPython explorations. 
+
+![alt text](https://github.com/alexkcode/allstate_challenge/blob/master/feature_changes.png "feature_changes.png")
+Bar graph showing how many changes there are for each column between the first and last shopping points.
+
+The first analysis I did was look at the changes in the customers and the policies they view in (shown in plot above). 
 In this analysis I notice a couple things:
 * There isn't a lot of change in attributes of the customers between the 
 first shopping point and the purchase point. Although it may be intuitive 
@@ -29,7 +33,7 @@ dropping all data that isn't directly connected to the actual purchase seems fai
 Now, let's look at the policy changes more closely, specifically between 
 the first and last shopping points, as in [feature_changes.png] and the 
 second to last shopping point and the last shopping point, as in 
-[Second_to_last_polcy_changes.png] and [Second_to_last_polcy_changes_by_Degree.png]
+[Second_to_last_policy_changes.png] and [Second_to_last_polcy_changes_by_Degree.png]
 
 The probability of a customer purchasing his/her last view insurance policy scheme
 is 64.33%. This was calculated by taking the areas of the tails of the histogram,
