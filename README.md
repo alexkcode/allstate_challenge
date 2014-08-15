@@ -4,6 +4,8 @@ The task for this Kaggle competition is to predict the purchased coverage option
 
 A description of the feature data can be found [here.](https://www.kaggle.com/c/allstate-purchase-prediction-challenge/data)
 
+Dependancies: matplotlib, PANDAS, sci-kit learn
+
 ##Exploratory Analysis
 
 ###Initial Distribution Analysis
